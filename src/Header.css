@@ -1,0 +1,115 @@
+.Header{
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 12px;
+    background-color: var(--darker);
+    align-items: center;
+    padding-bottom: 1in;
+}
+
+.searchbox{
+    
+	padding: 8px;
+	border-radius: 8px;
+	color: var(--light);
+	font-size: 1rem;
+    margin-top: 8px;
+    color: black;
+    width: 60%;
+    font-weight: 500;
+    margin-right: 12px;
+}
+
+.Profilebox{
+    width: 3in;
+    height: 3in;
+    border: 4px solid transparent;
+    background:linear-gradient(var(--dark),var(--dark)) padding-box, linear-gradient(to right, var(--pink), var(--purple)) border-box;
+    border-radius: 14px;
+    
+}
+
+
+.seemorepage{
+    width: 100%;
+    height: 100%;
+ background-color: var(--darker); 
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+
+ 
+}
+
+.mobilesdiv2{
+    margin: 0;
+    width: 24vw;
+    height: 45vh;
+
+}
+
+
+.seemoreimg{
+    width: 2in;
+    height: 2in;
+}
+
+.cartitem{
+
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    
+    border: 4px solid transparent;
+    background:linear-gradient(var(--darker),var(--darker)) padding-box, linear-gradient(to right, var(--pink), var(--purple)) border-box;
+    border-radius: 12px;
+    margin: 16px 16px;
+    padding: 12px;
+
+}
+
+.cartpage{
+    width: 100%;
+    height: 100%;
+ background-color: var(--darker); 
+ display: flex;
+ flex-direction: column;
+}
+
+.cartbuton{
+    display: flex;
+    align-items: center ;
+    
+}
+
+.cartbuton p{
+    margin: 0 12px;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.cartbuton button {
+	font-size: 32px;
+	font-weight: 700;
+	background-image: linear-gradient(to right, var(--pink), var(--purple));
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+    border: 2px solid var(--purple);
+    border-radius: 360%;
+    cursor: pointer;
+	transition: 0.4s;
+    padding: 8px;
+}
+
+.cartbuton button:hover {
+	opacity: 0.5;
+}
+.cartbuton button:active {
+	opacity: 0.2;
+}   
+
+.cartimg{
+    width: 2in;
+    height: 2in;
+}

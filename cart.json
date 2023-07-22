@@ -1,0 +1,74 @@
+{
+  "cart": [
+    {
+      "model": "vivo X90 Pro",
+      "image": "https://www.91-img.com/pictures/150378-v11-vivo-x90-pro-mobile-phone-medium-1.jpg?tr=q-80",
+      "id": 1
+    },
+    {
+      "model": "vivo X90 Pro",
+      "image": "https://www.91-img.com/pictures/150378-v11-vivo-x90-pro-mobile-phone-medium-1.jpg?tr=q-80",
+      "id": 2
+    },
+    {
+      "model": "vivo X90 Pro",
+      "image": "https://www.91-img.com/pictures/150378-v11-vivo-x90-pro-mobile-phone-medium-1.jpg?tr=q-80",
+      "id": 3
+    },
+    {
+      "model": "vivo X90 Pro",
+      "image": "https://www.91-img.com/pictures/150378-v11-vivo-x90-pro-mobile-phone-medium-1.jpg?tr=q-80",
+      "id": 4
+    },
+    {
+      "model": "vivo X90 Pro",
+      "image": "https://www.91-img.com/pictures/150378-v11-vivo-x90-pro-mobile-phone-medium-1.jpg?tr=q-80",
+      "id": 5
+    },
+    {
+      "model": "vivo X90 Pro",
+      "image": "https://www.91-img.com/pictures/150378-v11-vivo-x90-pro-mobile-phone-medium-1.jpg?tr=q-80",
+      "id": 6
+    },
+    {
+      "model": "vivo X90 Pro",
+      "image": "https://www.91-img.com/pictures/150378-v11-vivo-x90-pro-mobile-phone-medium-1.jpg?tr=q-80",
+      "id": 7
+    },
+    {
+      "model": "vivo X90 Pro",
+      "image": "https://www.91-img.com/pictures/150378-v11-vivo-x90-pro-mobile-phone-medium-1.jpg?tr=q-80",
+      "id": 8
+    },
+    {
+      "model": "HP Victus 16-d0333TX Laptop",
+      "image": "https://cdn1.smartprix.com/rx-ig5tK2dFn-w420-h420/hp-victus-16-d0333tx.webp",
+      "id": 9
+    },
+    {
+      "model": "HP Victus 16-d0333TX Laptop",
+      "image": "https://cdn1.smartprix.com/rx-ig5tK2dFn-w420-h420/hp-victus-16-d0333tx.webp",
+      "id": 10
+    },
+    {
+      "model": "HP Victus 16-d0333TX Laptop",
+      "image": "https://cdn1.smartprix.com/rx-ig5tK2dFn-w420-h420/hp-victus-16-d0333tx.webp",
+      "id": 11
+    },
+    {
+      "model": "Asus Vivobook 16X 2022 ",
+      "image": "https://cdn1.smartprix.com/rx-iRUMXjHn3-w420-h420/asus-vivobook-16x-20.webp",
+      "id": 12
+    },
+    {
+      "model": "Asus Vivobook 16X 2022 ",
+      "image": "https://cdn1.smartprix.com/rx-iRUMXjHn3-w420-h420/asus-vivobook-16x-20.webp",
+      "id": 13
+    },
+    {
+      "model": "Asus Vivobook 16X 2022 ",
+      "image": "https://cdn1.smartprix.com/rx-iRUMXjHn3-w420-h420/asus-vivobook-16x-20.webp",
+      "id": 14
+    }
+  ]
+}
